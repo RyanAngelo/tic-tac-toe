@@ -1,8 +1,6 @@
 from tkinter import *
 from tkinter import font
-#from tkinter import ttk
 
-#Doesn't work well on Mac... :(
 class Application(Frame):
 
     btnheight=5
